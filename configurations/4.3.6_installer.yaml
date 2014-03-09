@@ -1,0 +1,11 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://download.virtualbox.org/virtualbox/4.3.6/VirtualBox-4.3.6-91406-Win.exe
+  :package_name: Oracle VM VirtualBox 4.3.6
+  :installer_options: -s
+  :support_32bit: true
+  :support_64bit: 
+:support_32bit: true
+:support_64bit: 
